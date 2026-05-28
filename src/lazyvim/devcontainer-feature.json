@@ -3,7 +3,7 @@
     "id": "lazyvim",
     "version": "0.1.0",
     "description": "Installs LazyVim as the default Neovim configuration. Skipped automatically if ~/.config/nvim already exists (e.g. mounted from host).",
-    "documentationURL": "https://github.com/XavierBeheydt/devcontainer-lazyvim",
+    "documentationURL": "https://github.com/XavierBeheydt/devcontainer-extras",
     "installsAfter": [
         "ghcr.io/duduribeiro/devcontainer-features/neovim"
     ]
